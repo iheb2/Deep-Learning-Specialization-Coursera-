@@ -32,9 +32,9 @@ Run ```setup.sh``` to (i) download a pre-trained VGG-19 dataset and (ii) extract
   
 ### Course 4: Convolutional Neural Networks
 
-  - [Week 1 - PA 1 - Convolutional Model: step by step](https://nbviewer.jupyter.org/github/amanchadha/coursera-deep-learning-specialization/blob/master/C4%20-%20Convolutional%20Neural%20Networks/Week%201/Convolution_model_Step_by_Step_v1.ipynb)
-  - [Week 1 - PA 2 - Convolutional Neural Networks: Application](https://nbviewer.jupyter.org/github/amanchadha/coursera-deep-learning-specialization/blob/master/C4%20-%20Convolutional%20Neural%20Networks/Week%201/Convolution_model_Application.ipynb)
-  - [Week 2 - PA 1 - Keras - Tutorial - Happy House](https://github.com/iheb2/Deep-Learning-Specialization-Coursera-/blob/master/C4%20-%20Convolutional%20Neural%20Networks/Week%201/Convolution_model_Step_by_Step_v1.ipynb)
+  - [Week 1 - PA 1 - Convolutional Model: step by step](https://github.com/iheb2/Deep-Learning-Specialization-Coursera-/blob/master/C4%20-%20Convolutional%20Neural%20Networks/Week%201/Convolution_model_Step_by_Step_v1.ipynb)
+  - [Week 1 - PA 2 - Convolutional Neural Networks: Application](https://github.com/iheb2/Deep-Learning-Specialization-Coursera-/blob/master/C4%20-%20Convolutional%20Neural%20Networks/Week%201/Convolution_model_Application_v1a.ipynb)
+  - [Week 2 - PA 1 - Keras - Tutorial - Happy House](https://github.com/iheb2/Deep-Learning-Specialization-Coursera-/blob/master/C4%20-%20Convolutional%20Neural%20Networks/Week%202/KerasTutorial/Keras%20-%20Tutorial%20-%20Happy%20House%20v2.ipynb)
   - [Week 2 - PA 2 - Residual Networks](https://github.com/iheb2/Deep-Learning-Specialization-Coursera-/blob/master/C4%20-%20Convolutional%20Neural%20Networks/Week%202/ResNets/Residual_Networks.ipynb)
   - [Week 2 - PA 2 - Transfer Learning with MobileNet](https://github.com/iheb2/Deep-Learning-Specialization-Coursera-/blob/master/C4%20-%20Convolutional%20Neural%20Networks/Week%202/Transfer%20Learning%20with%20MobileNet/Transfer_learning_with_MobileNet_v1.ipynb)
   - [Week 3 - PA 1 - Car detection with YOLO for Autonomous Driving](https://github.com/iheb2/Deep-Learning-Specialization-Coursera-/blob/master/C4%20-%20Convolutional%20Neural%20Networks/Week%203/Car%20detection%20for%20Autonomous%20Driving/Autonomous_driving_application_Car_detection.ipynb)
